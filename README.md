@@ -5,6 +5,8 @@ This project focuses on building an interactive dashboard to visualize the bacte
 
 You can visit my Dashboard @ https://cmenegoli.github.io/belly-button-challenge/
 
+Here is a previw of the Dashboard:
+
 ![Dashboard Preview](images/dashboard.PNG)
 
 ## Resources
